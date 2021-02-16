@@ -1,2 +1,2 @@
-# hadoop-automation-using-ansible-playbook
+# Hadoop-ansible-setup
 Automation of hadoop cluster using ansible playbook
